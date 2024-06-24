@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* Adicionando comentários nas rotas */
 Route::get('/', function () {
     return view('welcome');
 });
